@@ -1,1 +1,0 @@
-cmd_/home/smc17/workspace/bbb_linux/custom_drivers/001_pcd/main.mod := { echo  /home/smc17/workspace/bbb_linux/custom_drivers/001_pcd/main.o;  echo; } > /home/smc17/workspace/bbb_linux/custom_drivers/001_pcd/main.mod
