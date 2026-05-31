@@ -1,0 +1,1 @@
+cmd_/home/smc17/workspace/bbb_linux/custom_drivers/001_pcd/main.ko := arm-linux-gnueabihf-ld -r -EL --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/smc17/workspace/bbb_linux/custom_drivers/001_pcd/main.ko /home/smc17/workspace/bbb_linux/custom_drivers/001_pcd/main.o /home/smc17/workspace/bbb_linux/custom_drivers/001_pcd/main.mod.o;  true
